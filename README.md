@@ -99,7 +99,7 @@ class SomeshKumarKV:
 - ⭐ Language usage visualization
 - 🔄 Real-time data fetching via GitHub API
 
-[![View Project](https://img.shields.io/badge/View%20Project-667eea?style=for-the-badge&logo=github)](https://github.com/Someshkumar8998/github-profile-analyzer-us...)
+[![View Project](https://img.shields.io/badge/View%20Project-667eea?style=for-the-badge&logo=github)](https://github.com/Someshkumar8998/GitHub-Profile-Analyzer)
 
 </td>
 <td width="50%" valign="top">
