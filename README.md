@@ -1,13 +1,13 @@
 <div align="center">
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Somesh%20Kumar%20KV&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20BCA%20Graduate&descAlignY=60&descSize=16&descColor=d4c5f9" />
+
 <!-- Dynamic Typing SVG -->
-    
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications+%F0%9F%9A%80;Python+%7C+Flask+%7C+Django+%7C+React.js;Turning+ideas+into+reality+%F0%9F%92%A1;Open+to+full-time+opportunities+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
+
 <br/>
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/someshkumar-kv-8193b42a2)
 [![Gmail](https://img.shields.io/badge/Gmail-someshkumarkv8998%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:someshkumarkv8998@gmail.com)
@@ -15,6 +15,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Someshkumar8998&style=for-the-badge&color=667eea&label=PROFILE+VIEWS)
 
 </div>
+
+---
 
 ## 🙋‍♂️ About Me
 
@@ -71,7 +73,7 @@ class SomeshKumarKV:
 ### ☁️ Cloud & Security
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
@@ -184,11 +186,29 @@ class SomeshKumarKV:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Badges
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Someshkumar8998&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+![Repositories](https://img.shields.io/badge/📁%20Repos-13%20Public-667eea?style=for-the-badge&labelColor=0D1117)
+![BCA](https://img.shields.io/badge/🎓%20BCA-Bharathiar%20University-764ba2?style=for-the-badge&labelColor=0D1117)
+![Internship](https://img.shields.io/badge/💼%20Intern-IDM%20TechPark-667eea?style=for-the-badge&labelColor=0D1117)
+![Open To Work](https://img.shields.io/badge/🚀%20Open%20To-Full%20Time%20SDE-00b894?style=for-the-badge&labelColor=0D1117)
+
+![Full Stack](https://img.shields.io/badge/🛠️%20Full%20Stack-Python%20%7C%20React-764ba2?style=for-the-badge&labelColor=0D1117)
+![Cloud](https://img.shields.io/badge/☁️%20Cloud%20Certified-AWS%20%7C%20Oracle%20%7C%20GCP-667eea?style=for-the-badge&labelColor=0D1117)
+![Security](https://img.shields.io/badge/🔐%20Security-Google%20%7C%20Microsoft-764ba2?style=for-the-badge&labelColor=0D1117)
+![ML](https://img.shields.io/badge/🤖%20ML-Energy%20Forecasting-00b894?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Someshkumar8998&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
