@@ -2,6 +2,7 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Somesh%20Kumar%20KV&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20BCA%20Graduate&descAlignY=60&descSize=16&descColor=d4c5f9" />
 <!-- Dynamic Typing SVG -->
+    
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications+%F0%9F%9A%80;Python+%7C+Flask+%7C+Django+%7C+React.js;Turning+ideas+into+reality+%F0%9F%92%A1;Open+to+full-time+opportunities+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
