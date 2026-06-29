@@ -1,24 +1,19 @@
 <div align="center">
-
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Somesh%20Kumar%20KV&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20BCA%20Final%20Year%20%E2%80%A2%20Intern%20%40%20IDM%20TechPark&descAlignY=60&descSize=16&descColor=d4c5f9" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Somesh%20Kumar%20KV&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20BCA%20Graduate&descAlignY=60&descSize=16&descColor=d4c5f9" />
 <!-- Dynamic Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications+%F0%9F%9A%80;Python+%7C+Flask+%7C+Django+%7C+React.js;Turning+ideas+into+reality+%F0%9F%92%A1;Open+to+full-time+opportunities+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
-
 <br/>
+<div align="center">
 
-<!-- Profile Views & Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/someshkumar-kv-8193b42a2)
 [![Gmail](https://img.shields.io/badge/Gmail-someshkumarkv8998%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:someshkumarkv8998@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Someshkumar8998-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Someshkumar8998)
 ![Profile Views](https://komarev.com/ghpvc/?username=Someshkumar8998&style=for-the-badge&color=667eea&label=PROFILE+VIEWS)
 
 </div>
-
----
 
 ## 🙋‍♂️ About Me
 
