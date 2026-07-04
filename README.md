@@ -9,6 +9,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://someshkumarkv-portfolio-django.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/someshkumar-kv-8193b42a2)
 [![Gmail](https://img.shields.io/badge/Gmail-someshkumarkv8998%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:someshkumarkv8998@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Someshkumar8998-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Someshkumar8998)
@@ -28,6 +29,7 @@ class SomeshKumarKV:
         self.location   = "Coimbatore, India 🇮🇳"
         self.education  = "BCA Final Year @ Bharathiar University"
         self.internship = "IDM TechPark"
+        self.portfolio  = "https://someshkumarkv-portfolio-django.vercel.app"
         self.email      = "someshkumarkv8998@gmail.com"
         self.phone      = "+91 9384108526"
 
@@ -75,6 +77,18 @@ class SomeshKumarKV:
 ![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+</div>
+
+---
+
+## 🌐 Portfolio
+
+<div align="center">
+
+### 🔗 [someshkumarkv-portfolio-django.vercel.app](https://someshkumarkv-portfolio-django.vercel.app)
+
+Explore my projects, skills, experience, and resume — built with Django, deployed on Vercel.
 
 </div>
 
@@ -220,6 +234,7 @@ class SomeshKumarKV:
 
 | 📬 Channel | 📌 Details |
 |:---|:---|
+| 🌐 Portfolio | (https://someshkumarkv-portfolio-django.vercel.app) |
 | 💼 LinkedIn | [linkedin.com/in/someshkumar-kv-8193b42a2](https://linkedin.com/in/someshkumar-kv-8193b42a2) |
 | 📧 Email | someshkumarkv8998@gmail.com |
 | 📱 Phone | +91 9384108526 |
