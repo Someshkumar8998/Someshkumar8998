@@ -234,11 +234,11 @@ Explore my projects, skills, experience, and resume — built with Django, deplo
 
 | 📬 Channel | 📌 Details |
 |:---|:---|
-| 🌐 Portfolio | (https://someshkumarkv-portfolio-django.vercel.app) |
-| 💼 LinkedIn | [linkedin.com/in/someshkumar-kv-8193b42a2](https://linkedin.com/in/someshkumar-kv-8193b42a2) |
+| 🌐 Portfolio | https://someshkumarkv-portfolio-django.vercel.app |
+| 💼 LinkedIn | https://linkedin.com/in/someshkumar-kv-8193b42a2) |
 | 📧 Email | someshkumarkv8998@gmail.com |
 | 📱 Phone | +91 9384108526 |
-| 📍 Location | Coimbatore, Tamil Nadu, India |
+| 📍 Location | Pollachi, Tamil Nadu, India |
 
 **Open to:** Full-time SDE roles · Freelance projects · Open source collaborations
 
