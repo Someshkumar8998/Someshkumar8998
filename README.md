@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://someshkumarkv-portfolio-django.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-someshkumar-kv.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/someshkumar-kv-8193b42a2)
 [![Gmail](https://img.shields.io/badge/Gmail-someshkumarkv8998%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:someshkumarkv8998@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Someshkumar8998-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Someshkumar8998)
@@ -29,7 +29,7 @@ class SomeshKumarKV:
         self.location   = "Coimbatore, India 🇮🇳"
         self.education  = "BCA Final Year @ Bharathiar University"
         self.internship = "IDM TechPark"
-        self.portfolio  = "https://someshkumarkv-portfolio-django.vercel.app"
+        self.portfolio  = "https://portfolio-someshkumar-kv.vercel.app/"
         self.email      = "someshkumarkv8998@gmail.com"
         self.phone      = "+91 9384108526"
 
@@ -86,9 +86,9 @@ class SomeshKumarKV:
 
 <div align="center">
 
-### 🔗 [someshkumarkv-portfolio-django.vercel.app](https://someshkumarkv-portfolio-django.vercel.app)
+### 🔗 [portfolio-someshkumar-kv.vercel.app](https://portfolio-someshkumar-kv.vercel.app/)
 
-Explore my projects, skills, experience, and resume — built with Django, deployed on Vercel.
+Explore my projects, skills, experience, and resume — built in plain Python, deployed on Vercel.
 
 </div>
 
@@ -99,6 +99,21 @@ Explore my projects, skills, experience, and resume — built with Django, deplo
 <div align="center">
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 🩺 MedCare Hub
+> Healthcare management system for patients, doctors, and admins
+
+**Tech Stack:** `Python` `Django` `MySQL` `Bootstrap`
+
+**Highlights:**
+- 🧑‍⚕️ Patient registration & appointment booking
+- 💊 Prescription and doctor management
+- 📊 Admin dashboard for full oversight
+
+[![View Project](https://img.shields.io/badge/View%20Project-092E20?style=for-the-badge&logo=github)](https://github.com/Someshkumar8998/MedCare-Hub)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🔍 GitHub Profile Analyzer
@@ -114,6 +129,8 @@ Explore my projects, skills, experience, and resume — built with Django, deplo
 [![View Project](https://img.shields.io/badge/View%20Project-667eea?style=for-the-badge&logo=github)](https://github.com/Someshkumar8998/GitHub-Profile-Analyzer)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ⚡ Energy Forecasting System
@@ -129,8 +146,6 @@ Explore my projects, skills, experience, and resume — built with Django, deplo
 [![View Project](https://img.shields.io/badge/View%20Project-092E20?style=for-the-badge&logo=github)](https://github.com/Someshkumar8998/Energy-Consumption)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🐛 Bug Tracking System
@@ -146,6 +161,8 @@ Explore my projects, skills, experience, and resume — built with Django, deplo
 [![View Project](https://img.shields.io/badge/View%20Project-4479A1?style=for-the-badge&logo=github)](https://github.com/Someshkumar8998/online-bug-tracking-system)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🍽️ Restaurant Ordering System
@@ -159,6 +176,9 @@ Explore my projects, skills, experience, and resume — built with Django, deplo
 - 🍕 Dynamic menu & cart management
 
 [![View Project](https://img.shields.io/badge/View%20Project-E34F26?style=for-the-badge&logo=github)](https://github.com/Someshkumar8998/SOMESHKUMAR-KV)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -234,8 +254,8 @@ Explore my projects, skills, experience, and resume — built with Django, deplo
 
 | 📬 Channel | 📌 Details |
 |:---|:---|
-| 🌐 Portfolio | https://someshkumarkv-portfolio-django.vercel.app |
-| 💼 LinkedIn | https://linkedin.com/in/someshkumar-kv-8193b42a2) |
+| 🌐 Portfolio | https://portfolio-someshkumar-kv.vercel.app/ |
+| 💼 LinkedIn | https://linkedin.com/in/someshkumar-kv-8193b42a2 |
 | 📧 Email | someshkumarkv8998@gmail.com |
 | 📱 Phone | +91 9384108526 |
 | 📍 Location | Pollachi, Tamil Nadu, India |
